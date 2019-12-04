@@ -47,7 +47,7 @@
     "url": "https://opencollective.com/madge"
   },
   "dependencies": {
-    "@zhenyu925/dependency-tree": "^7.2.2",
+    "@zhenyu925/dependency-tree": "^7.2.3",
     "chalk": "^3.0.0",
     "commander": "^4.0.1",
     "commondir": "^1.0.1",
